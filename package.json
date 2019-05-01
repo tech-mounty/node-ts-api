@@ -1,0 +1,19 @@
+{
+  "name": "ts-api",
+  "version": "1.0.0",
+  "description": "A template for nodejs server with typescript !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tech-mounty/node-ts-api.git"
+  },
+  "author": "Arunabh Saikia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tech-mounty/node-ts-api/issues"
+  },
+  "homepage": "https://github.com/tech-mounty/node-ts-api#readme"
+}
